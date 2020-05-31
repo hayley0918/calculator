@@ -6,7 +6,7 @@ after Tic Tac Toe project to practice more DOM I created the calculator App.
 It is iPhone styled Calculator App.
 
 # Screenshots
-![app image][./app-image]
+![app image][./app-image.png]
 
 # Deployment
 - Github
